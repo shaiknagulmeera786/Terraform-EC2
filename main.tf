@@ -83,3 +83,4 @@ resource "aws_instance" "ec2" {
         Owner = "nagulmeera"
     }
 }
+
